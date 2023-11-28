@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Portofolio
+- [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
+- [Scarping Data](https://github.com/ninanina19/Scraping-Data/blob/main/README.md)
 
 ### Connect with me : 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninanina19)
