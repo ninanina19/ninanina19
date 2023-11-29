@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Portofolio
 - [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
-- [Scarping Data](https://github.com/ninanina19/Scraping-Data/blob/main/README.md)
+- [Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
 - [Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
 
 ### Connect with me : 
