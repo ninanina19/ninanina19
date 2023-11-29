@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
 - [Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
 - [Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
+- {template](https://docs.google.com/document/d/1vtUqvCz5nFLUOdDuxJfmQWm33cGbp6OzklilWhdgQ6w/edit#heading=h.93a3a88ytzi5)
 
 ### Connect with me : 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninanina19)
