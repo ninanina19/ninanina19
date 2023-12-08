@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m entry-level data analytics professional. Currently, interested in field of data engineering, administration and management.
 
 <!--
 **ninanina19/ninanina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Portofolio
 - [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
 - [Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
 - [Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
 - [Template Meeting Minutes](https://docs.google.com/document/d/1a6wNSzkVaxGVJIBgn20PHMrck1qI6VaeWB60kIeAruM/edit?usp=sharing)
+- [Expenses Application using Zoho Creator](https://github.com/ninanina19/Expense-App-Project-04)
 
 ### Connect with me : 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninanina19)
