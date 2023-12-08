@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
 - [Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
 - [Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
-- [Template Meeting Minutes](https://docs.google.com/document/d/1a6wNSzkVaxGVJIBgn20PHMrck1qI6VaeWB60kIeAruM/edit?usp=sharing)
 - [Expenses Application using Zoho Creator](https://github.com/ninanina19/Expense-App-Project-04)
 
 ### Connect with me : 
