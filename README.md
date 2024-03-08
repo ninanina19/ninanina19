@@ -1,5 +1,6 @@
 ## Hi there 👋
-I’m entry-level data analytics professional. Currently, interested in field of data engineering, administration and management.
+I'm a passionate professional in the field of data.
+Currently enhancing my skills in data analysis and engineering, I also bring an interest in administration and management.
 
 <!--
 **ninanina19/ninanina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
