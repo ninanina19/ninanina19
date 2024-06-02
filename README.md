@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - [Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
 - [Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
 - [Expenses Application using Zoho Creator](https://github.com/ninanina19/Expense-App-Project-04)
+- [Stock Count Apps Design using Figma](https://www.figma.com/design/0VXNZkE41Earup7QaerqTd/App_02?m=dev&node-id=5-2&t=3BJNHsLoEYxpnrce-1) 
 
 ### Connect with me : 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninanina19)
