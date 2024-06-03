@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 -->
 
 ### Portofolio
+- [Administrative Works](https://github.com/ninanina19/Administrative-Works/tree/main) 
+- [Stock Count Apps Design using Figma](https://www.figma.com/proto/0VXNZkE41Earup7QaerqTd/App_02?node-id=29-509&t=lMh6zM6dH8oWlIK2-1&scaling=scale-down&page-id=5%3A2&starting-point-node-id=29%3A509) 
 - [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
 - [Supply Chain Analysis using Spreadsheet](https://github.com/ninanina19/Supply-Chain-Analysis-using-Spreadsheet/blob/main/README.md)
 - [Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
 - [Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
 - [Expenses Application using Zoho Creator](https://github.com/ninanina19/Expense-App-Project-04)
-- [Stock Count Apps Design using Figma](https://www.figma.com/proto/0VXNZkE41Earup7QaerqTd/App_02?node-id=29-509&t=lMh6zM6dH8oWlIK2-1&scaling=scale-down&page-id=5%3A2&starting-point-node-id=29%3A509) 
+
 
 ### Connect with me : 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninanina19)
