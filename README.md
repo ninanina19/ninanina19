@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ### Portofolio
-- [Application Documentation and Support - Administrative Works](https://github.com/ninanina19/Administrative-Works/tree/main) 
+- [Application Documentation and Support](https://github.com/ninanina19/Administrative-Works/tree/main)
+- [Generating and Sending E-Slips](https://github.com/ninanina19/Administrative-Works/blob/main/Generating%20and%20Sending%20E-Slips.md)
 - [Stock Count Apps Design using Figma](https://www.figma.com/proto/0VXNZkE41Earup7QaerqTd/App_02?node-id=29-509&t=lMh6zM6dH8oWlIK2-1&scaling=scale-down&page-id=5%3A2&starting-point-node-id=29%3A509) 
 - [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
 - [Supply Chain Analysis using Spreadsheet](https://github.com/ninanina19/Supply-Chain-Analysis-using-Spreadsheet/blob/main/README.md)
