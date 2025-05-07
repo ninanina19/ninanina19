@@ -44,6 +44,14 @@ Here are some ideas to get you started:
     <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://github.com/ninanina19/ninanina19/blob/main/images/mysql-logo.svg" />
 </a> 
 
+<a href="https://www.microsoft.com/" target="_blank">
+    <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ninanina19/ninanina19/blob/main/images/logo.png" />
+</a> 
+
+<a href="https://google.com/" target="_blank">
+    <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ninanina19/ninanina19/blob/main/images/google-sheets.png" />
+</a> 
+
 <a href="https://www.python.org/" target="_blank">
     <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ninanina19/ninanina19/blob/main/images/python-5.svg" />
 </a> 
@@ -63,6 +71,10 @@ Here are some ideas to get you started:
 <a href="https://code.visualstudio.com/" target="_blank">
     <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ninanina19/ninanina19/blob/main/images/visual-studio-code-1.svg" />
 </a> 
+
+
+
+
 
 
 
