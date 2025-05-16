@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Portofolio
 
-💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
+💡 *Tip: Press Ctrl + click (or Cmd + click on Mac) to open the link in a new tab.*
 
 - [Accounting & Tax Projects](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)
 - [Application Documentation and Support](https://github.com/ninanina19/Administrative-Works/tree/main)
