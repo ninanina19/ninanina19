@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ### Portofolio
+
+💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
+
 - [Accounting & Tax Projects](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)
 - [Application Documentation and Support](https://github.com/ninanina19/Administrative-Works/tree/main)
 - [Generating and Sending E-Slips](https://github.com/ninanina19/Administrative-Works/blob/main/Generating%20and%20Sending%20E-Slips.md)
