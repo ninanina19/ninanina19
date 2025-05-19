@@ -1,35 +1,21 @@
 ## Hi there 👋
-I'm a passionate professional in the field of data.
-Currently enhancing my skills in data analysis, I also have an interest in administration, management and accounting.
+I'm a passionate professional in **accounting** and **data-related fields**.
+Currently focusing on strengthening my accounting skills, while also exploring **data analysis**, **administration**, and **management**.
 
-<!--
-**ninanina19/ninanina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Portofolio
+### 📂 Portfolio Projects
 
 💡 *Tip: Press Ctrl + click (or Cmd + click on Mac) to open the link in a new tab.*
 
-- [Accounting & Tax Projects](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)
-- [Application Documentation and Support](https://github.com/ninanina19/Administrative-Works/tree/main)
-- [Generating and Sending E-Slips](https://github.com/ninanina19/Administrative-Works/blob/main/Generating%20and%20Sending%20E-Slips.md)
-- [Stock Count Apps Design using Figma](https://www.figma.com/proto/0VXNZkE41Earup7QaerqTd/App_02?node-id=29-509&t=lMh6zM6dH8oWlIK2-1&scaling=scale-down&page-id=5%3A2&starting-point-node-id=29%3A509) 
-- [Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
-- [Supply Chain Analysis using Spreadsheet](https://github.com/ninanina19/Supply-Chain-Analysis-using-Spreadsheet/blob/main/README.md)
-- [Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
-- [Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
-- [Expenses Application using Zoho Creator](https://github.com/ninanina19/Expense-App-Project-04)
+- [📊 Accounting & Tax Projects](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)
+- [📝 Application Documentation and Support](https://github.com/ninanina19/Administrative-Works/tree/main)
+- [📩 Generating and Sending E-Slips](https://github.com/ninanina19/Administrative-Works/blob/main/Generating%20and%20Sending%20E-Slips.md)
+- [📱 Stock Count Apps Design using Figma](https://www.figma.com/proto/0VXNZkE41Earup7QaerqTd/App_02?node-id=29-509&t=lMh6zM6dH8oWlIK2-1&scaling=scale-down&page-id=5%3A2&starting-point-node-id=29%3A509) 
+- [📈 Business Analysis using Spreadsheet](https://github.com/ninanina19/Business-Analysis-using-Spreadsheet-Basics-1)
+- [📦 Supply Chain Analysis using Spreadsheet](https://github.com/ninanina19/Supply-Chain-Analysis-using-Spreadsheet/blob/main/README.md)
+- [🔍 Scarping Data](https://github.com/ninanina19/Scraping-Data/tree/main)
+- [🏅 Olympic Analysis using SQL](https://github.com/ninanina19/Olympic-Analysis-Project-03)
+- [💰 Expenses Application using Zoho Creator](https://github.com/ninanina19/Expense-App-Project-04)
 
 
 ### Connect with me : 
