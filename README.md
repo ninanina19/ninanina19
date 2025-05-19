@@ -46,7 +46,7 @@ Currently focusing on strengthening my accounting skills, while also exploring *
 </a> 
 
 <a href="https://www.microsoft.com/id-id/download/details.aspx?id=58494" target="_blank">
-    <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
+    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
 </a> 
 
 <a href="https://public.tableau.com/app/discover" target="_blank">
