@@ -24,7 +24,7 @@ Currently focusing on strengthening my accounting skills, while also exploring *
 <!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
 
 
-### Languages and tools :
+### Tools :
 <a href="https://www.postgresql.org/" target="_blank">
     <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/ninanina19/ninanina19/blob/main/images/postgresql.svg" href="https://www.postgresql.org/" />
 </a>
